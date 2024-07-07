@@ -1,17 +1,9 @@
 # AI Summarizer
 
 Welcome to the AI Summarizer project! This application leverages advanced natural language processing (NLP) techniques to automatically summarize large bodies of text into concise, easy-to-read summaries.
+## Demo
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+<img width="1074" alt="image" src="https://github.com/princekumarg/aisummerzier/assets/86905668/8d4201bc-8832-4cc6-b4d2-3971991d4588">
 
 ## Introduction
 
@@ -70,11 +62,4 @@ The AI Summarizer project aims to provide users with a tool that can generate qu
 - **Integration with Popular Applications:** Integrate with tools like Microsoft Word, Google Docs, and Slack for seamless summarization.
 - **Offline Mode:** Develop functionality for summarizing text without an internet connection.
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
