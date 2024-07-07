@@ -61,5 +61,10 @@ The AI Summarizer project aims to provide users with a tool that can generate qu
 - **Summarization Customization Options:** Offer advanced customization features such as keyword emphasis and summary length.
 - **Integration with Popular Applications:** Integrate with tools like Microsoft Word, Google Docs, and Slack for seamless summarization.
 - **Offline Mode:** Develop functionality for summarizing text without an internet connection.
+### Contributor
 
+- [Prince Kumar](https://github.com/princekumarg)
 
+### Depolyment
+
+- [Live Demo](https://aisummerzier.vercel.app/)
